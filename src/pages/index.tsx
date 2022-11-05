@@ -879,7 +879,7 @@ The bus is situated at the end of our large garden in a secluded corner with its
           </section>
         </div>
         <div css={instaContainerStyles}>
-          <a href="https:/instagram.com/bestislandbus">
+          <a href="https://instagram.com/bestislandbus">
             <StaticImage src="../images/insta.png" alt="instagram logo" css={instaLogoStyles} />
           </a>
         </div>
