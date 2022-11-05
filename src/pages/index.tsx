@@ -733,7 +733,7 @@ The bus is situated at the end of our large garden in a secluded corner with its
         <div css={videoContainerStyles}>
           <Video
             css={videoStyles}
-            videoSrcURL={waterVideo}
+            videoSrcURL={`https://www.youtube.com/embed/jLIdmKKrLjQ?autoplay=1&loop=1&autopause=0&mute=1`}
             videoTitle='Water'
           ></Video>
         </div>
